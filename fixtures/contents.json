@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Sample news from Germany",
+        "body": "This is the news headline of sample news from Germany.",
+        "category": "news"
+    },
+    {
+        "id": 2,
+        "title": "Sample Sport from Cricket",
+        "body": "This is the sport event happeing at India ",
+        "category": "sports"
+    },
+    {
+        "id": 3,
+        "title": "Sample news from Austria",
+        "body": "This is the news headline of sample news from Austria.",
+        "category": "news"
+    },
+    
+    {
+        "id": 4,
+        "title": "Sample Sport from Olympics",
+        "body": "This is the sport event happeing at Paris",
+        "category": "sports"
+    },
+    {
+        "id": 5,
+        "title": "Sample news from Swiss ",
+        "body": "This is the news headline of sample news from Swiss.",
+        "category": "news"
+    },
+    {
+        "id": 6,
+        "title": "Sample news from India",
+        "body": "This is the news headline of sample news from India.",
+        "category": "news"
+    }
+]
